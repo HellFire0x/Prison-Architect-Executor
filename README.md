@@ -49,5 +49,6 @@ Stuff that i need to do, I will keep adding stuff
   - [x] Colored Console
   - [x] Console Debug
   - [x] Commands List
+  - [x] Update Checks
 
 ---------------------------------------
